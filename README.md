@@ -3,7 +3,9 @@ Ansible Notes:
 Ansible is an open-source configuration management and automation tool used to manage multiple servers from one central machine.
 What we are doing in this practical
 We have:
-/n
+
+
+
                 Ansible Master
                             |
        
